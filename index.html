@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rock-Paper-Scissors</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+    <link rel="stylesheet" href="styles/rock-paper-scissors.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="computer">
+            <div id="computer">
+                <span class="fa fa-hand-paper-o fa-fw fa-2x">
+                </div>
+        </div>
+        <div class="user">
+            <div class="anime-1" id="rock"><span class="fa fa-hand-rock-o fa-fw fa-2x"></span></div>
+            <div class="anime-1" id="paper"><span class="fa fa-hand-paper-o fa-fw fa-2x"></span></div>
+            <div class="anime-1" id="scissors"><span class="fa fa-hand-scissors-o fa-fw fa-2x"></span></div>
+        </div>
+        <div class="score">
+            <div class="myscors">
+                <h1>Me</h1>
+                <span id="usescore">0</span>
+            </div>
+            <div class="pcScors">
+                <h1>Pc</h1>
+                <span id="pcscore">0</span>
+            </div>
+        </div>
+        <!-- alert -->
+        <div class="alert" id="alert">
+            <div class="masseg" onclick="_close()">
+                <p id="masseg"></p>
+                <span class="fa fa-3x fa-refresh"></span>
+            </div>
+        </div>
+        <a href="https://github.com/masiimc" target="_blank"><strong>Developed by Masome Mahmudi</strong></a>
+    </div>
+
+    
+<script src="rock-paper-scissors.js"></script>
+</body>
+
+</html>
