@@ -1,4 +1,4 @@
-# rock-paper-scissors-game
+# Rock-paper-scissors-game
 
 🤖i used css & HTMl & java script
 
