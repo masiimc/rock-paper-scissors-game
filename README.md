@@ -12,11 +12,13 @@ How To Play:
 
 To start the game,just choose one of the 3 options
 
-![Uploading Screenshot (2).png…]()
+![Screenshot (2)](https://user-images.githubusercontent.com/116202175/232248955-d6088108-e4af-4f90-b253-798597600c0a.png)
+
 
 When the result of the hand is determined, click this option and countinue the game.
 
-![Uploading InkedScreenshot (3)_LI.jpg…]()
+![InkedScreenshot (3)_LI](https://user-images.githubusercontent.com/116202175/232248939-18a225b1-648d-4383-a5b3-3060f18108b9.jpg)
+
 
 my social account :
 
