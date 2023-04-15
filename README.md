@@ -8,7 +8,7 @@
 
 ![Shot 0014](https://user-images.githubusercontent.com/116202175/215736660-4e626aba-f05b-488f-b444-3ea387709f4c.png)
 
-How To Play:
+#How To Play:
 
 To start the game,just choose one of the 3 options
 
