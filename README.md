@@ -10,6 +10,13 @@
 
 How To Play:
 
+To start the game,just choose one of the 3 options
+
+![Uploading Screenshot (2).png…]()
+
+When the result of the hand is determined, click this option and countinue the game.
+
+![Uploading InkedScreenshot (3)_LI.jpg…]()
 
 my social account :
 
